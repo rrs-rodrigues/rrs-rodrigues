@@ -17,3 +17,5 @@ Formação em andamento:
 
 
 [<img src="https://hermes.digitalinnovation.one/assets/diome/logo-full.svg" width="70">](Link do Seu Perfil da DIO)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rrs_roddrigues)](
