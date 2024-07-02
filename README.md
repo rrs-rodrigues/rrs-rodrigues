@@ -1,4 +1,4 @@
-## Hi there 👋
+9## Hi there 👋
 
 Here are some ideas to get you started:
 
@@ -16,6 +16,6 @@ Formação em andamento:
 [<img src="https://hermes.dio.me/tracks/c2c00caf-9050-43ab-ba12-3bc05febfad2.png" width="70">](https://hermes.dio.me/tracks/c2c00caf-9050-43ab-ba12-3bc05febfad2.png)
 
 
-[<img src="https://hermes.digitalinnovation.one/assets/diome/logo-full.svg" width="70">](Link do Seu Perfil da DIO)
+[<img src="https://hermes.digitalinnovation.one/assets/diome/logo-full.svg" width="70">]
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rrs_roddrigues)](
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rrs-rodrigues)](https://git.io/streak-stats)
