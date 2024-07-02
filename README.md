@@ -11,4 +11,4 @@ Here are some ideas to get you started:
 </div>
 Formação em andamento:
 
-[<img src="https://hermes.dio.me/tracks/aa71615b-e701-4cec-bb64-71ba6974c5fe.png" width="70">](https://hermes.dio.me/tracks/c2c00caf-9050-43ab-ba12-3bc05febfad2.png)
+[<img src="https://hermes.dio.me/tracks/c2c00caf-9050-43ab-ba12-3bc05febfad2.png" width="70">](https://hermes.dio.me/tracks/c2c00caf-9050-43ab-ba12-3bc05febfad2.png)
